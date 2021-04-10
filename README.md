@@ -8,34 +8,27 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-
 **🛠 &nbsp;Tech Stack**
 
 - Languages: &nbsp;
-
-<code> <img height="50" src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png"> </code>
-<code> <img height="50" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png"> </code>
-<code> <img height="50" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"> </code>
-<code> <img height="50" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"> </code>
+![HTML](https://img.shields.io/badge/-html5-05122A?style=flat&logo=html5&color=white&logoColor=white&labelColor=E34F26)&nbsp;
+![CSS](https://img.shields.io/badge/-css3-05122A?style=flat&logo=css3&color=white&logoColor=white&labelColor=1572B6)&nbsp;
+![JS](https://img.shields.io/badge/-javascript-05122A?style=flat&logo=javascript&color=white&logoColor=white&labelColor=F7DF1E)&nbsp;
+![C#](https://img.shields.io/badge/-c%20sharp-05122A?style=flat&logo=c%20sharp&labelColor=239120&color=white)&nbsp;
 
 - Frameworks: &nbsp;
-
-<code> <img height="50" src="https://seeklogo.com/images/1/net-core-logo-E82CE4F701-seeklogo.com.png"> </code>
-<code> <img height="50" src="https://seeklogo.com/images/A/angular-logo-B76B1CDE98-seeklogo.com.png"> </code>
+![NETcore](https://img.shields.io/badge/-NET%20Core-05122A?style=flat&logo=.net&color=white&logoColor=white&labelColor=512BD4)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&color=white&logoColor=white&labelColor=DD0031)&nbsp;
 
 - Databases:  &nbsp;
+![MSSQL](https://img.shields.io/badge/-MSSQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server&color=white&logoColor=white&labelColor=CC2927)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&color=white&logoColor=white&labelColor=FFCA28)&nbsp;
 
-<code> <img height="50" src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png"> </code>
-<code> <img height="50" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png"> </code>
  
  - Tools:  &nbsp;
+![Firebase](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&color=white&logoColor=white&labelColor=F05032)&nbsp;
+![Firebase](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&color=white&logoColor=white&labelColor=2496ED)&nbsp;
 
-<code> <img height="50" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png"> </code>
-<code> <img height="50" src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png"> </code>
- 
 - IDEs: &nbsp;
+![Firebase](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual%20studio%20code&color=white&logoColor=white&labelColor=007ACC)&nbsp;
 
-<code> <img height="50" src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png"> </code>
-
-  
-***
