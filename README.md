@@ -13,10 +13,15 @@
 
 - Languages: &nbsp;
 
-<code> <img height="50" src="https://github.com/vtoan/vtoan/blob/main/res/angular.png"> </code>
+<code> <img height="50" src="https://github.com/vtoan/vtoan/blob/main/res/html.png"> </code>
+<code> <img height="50" src="https://github.com/vtoan/vtoan/blob/main/res/css.png"> </code>
+<code> <img height="50" src="https://github.com/vtoan/vtoan/blob/main/res/js.png"> </code>
+<code> <img height="50" src="https://github.com/vtoan/vtoan/blob/main/res/c#.png"> </code>
 
 - Frameworks: &nbsp;
- 
+
+<code> <img height="50" src="https://github.com/vtoan/vtoan/blob/main/res/aspcore.png"> </code>
+<code> <img height="50" src="https://github.com/vtoan/vtoan/blob/main/res/angular.png"> </code>
 
 - Databases:  &nbsp;
  
