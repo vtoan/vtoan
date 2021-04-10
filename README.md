@@ -12,7 +12,7 @@
 **🛠 &nbsp;Tech Stack**
 
 - Languages: &nbsp;
-
+![A](https://github.com/vtoan/vtoan/blob/main/res/angular.png)
 
 - Frameworks: &nbsp;
  
