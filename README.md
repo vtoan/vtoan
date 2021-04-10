@@ -3,18 +3,14 @@
 </div>
 
 - 👋 Hi, I’m @vtoan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 **🛠 &nbsp;Tech Stack**
 
 - Languages: &nbsp;
-![HTML](https://img.shields.io/badge/-html5-05122A?style=flat&logo=html5&color=white&logoColor=white&labelColor=E34F26)&nbsp;
-![CSS](https://img.shields.io/badge/-css3-05122A?style=flat&logo=css3&color=white&logoColor=white&labelColor=1572B6)&nbsp;
-![JS](https://img.shields.io/badge/-javascript-05122A?style=flat&logo=javascript&color=white&logoColor=white&labelColor=F7DF1E)&nbsp;
-![C#](https://img.shields.io/badge/-c%20sharp-05122A?style=flat&logo=c%20sharp&labelColor=239120&color=white)&nbsp;
+![HTML](https://img.shields.io/badge/-Html5-05122A?style=flat&logo=html5&color=white&logoColor=white&labelColor=E34F26)&nbsp;
+![CSS](https://img.shields.io/badge/-Css3-05122A?style=flat&logo=css3&color=white&logoColor=white&labelColor=1572B6)&nbsp;
+![JS](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript&color=white&logoColor=white&labelColor=F7DF1E)&nbsp;
+![C#](https://img.shields.io/badge/-C%20Sharp-05122A?style=flat&logo=c%20sharp&labelColor=239120&color=white)&nbsp;
 
 - Frameworks: &nbsp;
 ![NETcore](https://img.shields.io/badge/-NET%20Core-05122A?style=flat&logo=.net&color=white&logoColor=white&labelColor=512BD4)&nbsp;
