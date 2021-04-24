@@ -15,6 +15,7 @@
 - Frameworks: &nbsp;
 ![NETcore](https://img.shields.io/badge/-NET%20Core-05122A?style=flat&logo=.net&color=white&logoColor=white&labelColor=512BD4)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&color=white&logoColor=white&labelColor=DD0031)&nbsp;
+![React](https://img.shields.io/badge/-react-05122A?style=flat&logo=react&color=white&logoColor=white&labelColor=61DAFB)&nbsp;
 
 - Databases:  &nbsp;
 ![MSSQL](https://img.shields.io/badge/-MSSQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server&color=white&logoColor=white&labelColor=CC2927)&nbsp;
