@@ -330,3 +330,10 @@ https://www.geeksforgeeks.org/difference-between-abstract-class-and-interface-in
 | Fixed in size       | Resizable in size (grow or shrink)     |
 | More memory space | Less memory space |
 | Store homogeneous data types | Store both homogeneous and heterogeneous data types |
+
+
+# 12. Stack and Heap Memory
+
+**Read more**
+
+https://courses.engr.illinois.edu/cs225/sp2020/resources/stack-heap/
