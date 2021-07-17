@@ -337,3 +337,9 @@ https://www.geeksforgeeks.org/difference-between-abstract-class-and-interface-in
 **Read more**
 
 https://courses.engr.illinois.edu/cs225/sp2020/resources/stack-heap/
+
+# 13. IEnumerable and IQueryable
+
+**Read more**
+
+https://tedu.com.vn/lap-trinh-c/su-khac-nhau-giua-ienumerable-va-iqueryable-35.html
