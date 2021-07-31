@@ -50,3 +50,4 @@ https://rubikscode.net/2018/05/28/asynchronous-programming-in-net-common-mistake
 https://gist.github.com/tuscen/410ed491e2086ae3b4e7aaf2fc9e2870#case-study-copytoasync
 https://viblo.asia/p/parallel-processing-concurrency-va-async-programming-OeVKBdj0lkW
 https://softwareengineering.stackexchange.com/questions/173575/what-is-a-thread-pool
+https://gist.github.com/ghuntley/e5b5642ecc4428255e61185bb79856e4
