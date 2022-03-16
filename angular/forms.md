@@ -3,8 +3,6 @@
 - [2. Approach](#2-approach)
 - [3. Common form classes](#3-common-form-classes)
 - [4. Setting up the form model](#4-setting-up-the-form-model)
-  - [Reactive Form](#reactive-form)
-  - [Template Driven From](#template-driven-from)
 - [5. Mutability of the data model](#5-mutability-of-the-data-model)
 ---
 
@@ -34,7 +32,7 @@ Differences:
 - `ControlValueAccessor`: create a bridge between Angular `FormControl` instances and built-in `DOM elements`.
 
 # 4. Setting up the form model
-## Reactive Form
+**Reactive Form**
 
 - *Setup*:
 
@@ -52,7 +50,7 @@ Updates from the **view to the model** and from **the model to the view** are sy
 Read details [here](https://angular.io/guide/forms-overview#data-flow-in-reactive-forms).
 
 
-## Template Driven From
+**Template Driven From**
 
 - *Setup*: Using `NgModel` directive.
 
