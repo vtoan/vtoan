@@ -49,6 +49,7 @@ Updates from the **view to the model** and from **the model to the view** are sy
 
 Read details [here](https://angular.io/guide/forms-overview#data-flow-in-reactive-forms).
 
+<br>
 
 **Template Driven From**
 
