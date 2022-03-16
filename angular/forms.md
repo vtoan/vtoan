@@ -32,7 +32,7 @@ Differences:
 - `ControlValueAccessor`: create a bridge between Angular `FormControl` instances and built-in `DOM elements`.
 
 # 4. Setting up the form model
-**Reactive Form**
+**REACTIVE FORM**
 
 - *Setup*:
 
@@ -51,7 +51,7 @@ Read details [here](https://angular.io/guide/forms-overview#data-flow-in-reactiv
 
 <br>
 
-**Template Driven From**
+**TEMPLATE DRIVEN FORM**
 
 - *Setup*: Using `NgModel` directive.
 
