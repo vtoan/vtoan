@@ -2,7 +2,11 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
-👋 Hi, I’m @vtoan
+👋 Hi, I’m a software engineer, primarily working in the .NET ecosystem.
+
+Experienced in front-end technologies, including JavaScript, CSS3 and HTML5 and third-party libraries such as React JS, Angular, jQuery.
+
+Ability to self-learn and adapt to new technologies quickly.
 
 **🛠 &nbsp;Tech Stack**
 
