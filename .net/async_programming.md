@@ -21,7 +21,7 @@
 
 * Having status as `IsCanceled`, `IsCompleted`, `IFaulted`.
 
-# Task Instantiation
+## Task Instantiation
 Having four basic way to creates and executes:
 * **Created** by using a `Task class constructor`, but is **started** by calling its `Start()` method.
 
@@ -32,7 +32,7 @@ Object)` method. (This is equivalent to first way).
 
 * **Executed** synchronously on the main thread by calling the `RunSynchronously()` method.
 
-# Waiting tasks to complete
+## Waiting tasks to complete
 
 * `Task.Wait()`/ `Task.WaitAny(Task[])/ Task.WaitAll(Task[])` method.
 
